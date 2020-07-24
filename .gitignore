@@ -1,0 +1,4 @@
+# Project exclude paths
+/oauth2-sso-auth-server/target/
+/oauth2-sso-client-member/target/
+/oauth2-sso-client-order/target/
